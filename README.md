@@ -1,6 +1,7 @@
 # nsb-tider
 
-Fetches realtime status of trains from Stavanger arriving at Kristiansand Train Station.
+Fetches realtime status of trains from Stavanger arriving at Kristiansand Train Station.\
+Simple GUI written in Vue.\
 Probably outdated by now.
 
 Online version can be found at [https://togtider.now.sh/](https://togtider.now.sh/)
